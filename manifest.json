@@ -1,11 +1,11 @@
 {
-    "name": "navitest",
-    "short_name": "navitest",
+    "name": "AZEER Loyality Service",
+    "short_name": "AZEER",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "We appreciate your loyality",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
